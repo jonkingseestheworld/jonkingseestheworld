@@ -1,4 +1,5 @@
-[](img/profilebanner.png)
+[screenshot](img/profilebanner.png)
+
 
 <!--
 **jonkingseestheworld/jonkingseestheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
