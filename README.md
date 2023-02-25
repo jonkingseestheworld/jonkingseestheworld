@@ -1,6 +1,9 @@
 ![](img/profilebanner.png)
 # Hello 👋 
 
+I am a research and data scientist. I work with a life science research group by day.
+I enjoy things that require creativity and investigation.
+
 
 <!--
 **jonkingseestheworld/jonkingseestheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
