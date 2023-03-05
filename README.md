@@ -1,9 +1,9 @@
 ![](img/profilebanner.png)
-# Hello 👋 
+# Hi there 👋 
 
 I am a research and data scientist, with a keen interest in addressing and solving real-life questions using R/Python programming and statistical analysis techniques. Currently I am working with a life science research group by day.   
 
-I enjoy things that require creativity and problem solving.
+I enjoy doing things that require creativity and problem solving.
 
 
 <!--
