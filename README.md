@@ -18,6 +18,9 @@ Gallery
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="31%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="31%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png" width="31%" /> </a>
+
 </p>
 
 
