@@ -16,6 +16,8 @@ Gallery
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="31%" /> </a>
   <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png"> 
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="31%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="31%" /> </a>
 </p>
 
 
