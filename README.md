@@ -1,9 +1,24 @@
 ![](img/profile_banner.png)
-# Hi there 👋 
+Hi there 👋 
+---
 
-I am a research and data scientist, with a keen interest in addressing and solving real-life questions using R/Python programming and statistical analysis techniques. 
+Johnny here. I am a research and data scientist, with a keen interest in addressing and solving real-life questions using R/Python programming and statistical analysis techniques. 
 
 I enjoy doing things that require creativity and problem solving.
+
+
+Gallery
+---
+<p align= "center">
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230307wk10"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png" width="31%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="31%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png"> 
+    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" /> </a>
+</p>
+
+
 
 
 <!--
