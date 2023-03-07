@@ -10,19 +10,19 @@ I enjoy doing things that require creativity and problem solving.
 Gallery
 ---
 <p align= "center">
-  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230307wk10"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png" width="31%" /> </a>
-  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="31%" /> </a>
   <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png"> 
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="31%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="31%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png" width="31%" /> </a>
+
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="31%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png" width="31%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk29_20220719_Technology/20220719_tech_energy_WEUR.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk29_20220719_Technology/20220719_tech_energy_WEUR.png" width="31%" /> </a>
-
 
 </p>
 
