@@ -1,5 +1,5 @@
 ![](img/profile_banner.png)
-Hi there 👋 
+Hi 👋 
 ---
 
 Johnny here. I am a research and data scientist, with a keen interest in addressing and solving real-life questions using R/Python programming and statistical analysis techniques. 
@@ -11,18 +11,18 @@ Gallery
 ---
 <p align= "center">
   <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png"> 
-    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="31%" /> </a>
+    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="31%" /> </a>
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png" width="31%" /> </a>
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png" width="32%" /> </a>
 
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="31%" /> </a>
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png" width="31%" /> </a>
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk39_20220927_Artists/20220927_USA_artists.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk29_20220719_Technology/20220719_tech_energy_WEUR.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk29_20220719_Technology/20220719_tech_energy_WEUR.png" width="31%" /> </a>
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk29_20220719_Technology/20220719_tech_energy_WEUR.png" width="32%" /> </a>
 
 </p>
 
