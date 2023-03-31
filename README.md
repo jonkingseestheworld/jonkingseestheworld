@@ -16,8 +16,13 @@ Gallery
     <img src="https://github.com/jonkingseestheworld/jkl-data-viz/blob/main/HarryPotter_traits/HP_trait_similarity_network.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="32%" /> </a>
+
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png" width="32%" /> </a>
 
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="32%" /> </a>
