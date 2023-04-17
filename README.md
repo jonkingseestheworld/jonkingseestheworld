@@ -2,7 +2,7 @@
 Hi 👋 
 ---
 
-Johnny here. I am a research and data scientist, with a keen interest in addressing real-life problems using programming and statistical analysis techniques.
+Johnny here. I am a research and data scientist, with a keen interest in addressing real-life questions using programming and statistical analysis techniques.
 
 I enjoy doing things that require creative thinking and problem solving.
 
