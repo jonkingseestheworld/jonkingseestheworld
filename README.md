@@ -10,24 +10,31 @@ I enjoy doing things that require creative thinking and problem solving.
 Gallery
 ---
 <p align= "center">
-  <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png"> 
-    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/jkl-data-viz/blob/main/HarryPotter_traits/HP_trait_similarity_network.png"> 
     <img src="https://github.com/jonkingseestheworld/jkl-data-viz/blob/main/HarryPotter_traits/HP_trait_similarity_network.png" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png"> 
+    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/1_Point/1_Point_uk_pubs_starbucks.png"> 
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/1_Point/1_Point_uk_pubs_starbucks.png" width="32%" /> </a>
   
   
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230425wk17/tt20230425wk17_marathon.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230425wk17/tt20230425wk17_marathon.png" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/JKL-Data-Viz/blob/main/AccessEaseRanking/PassportAccessRank2023_plot.png"> 
+    <img src="https://github.com/jonkingseestheworld/JKL-Data-Viz/blob/main/AccessEaseRanking/PassportAccessRank2023_plot.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="32%" /> </a>
+  
 
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png" width="32%" /> </a> 
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png" width="32%" /> </a>
-  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png" width="32%" /> </a>
 
+  
+  
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk38_20220920_waste/20220920_WasteManagement1.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2022/wk29_20220719_Technology/20220719_tech_energy_WEUR.png"> 
