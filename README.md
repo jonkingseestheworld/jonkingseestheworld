@@ -14,8 +14,8 @@ Gallery
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/jkl-data-viz/blob/main/HarryPotter_traits/HP_trait_similarity_network.png"> 
     <img src="https://github.com/jonkingseestheworld/jkl-data-viz/blob/main/HarryPotter_traits/HP_trait_similarity_network.png" width="32%" /> </a>
-  <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/tree/main/1_Point/1_Point_uk_pubs_starbucks.png"> 
-    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/tree/main/1_Point/1_Point_uk_pubs_starbucks.png" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/1_Point/1_Point_uk_pubs_starbucks.png"> 
+    <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/1_Point/1_Point_uk_pubs_starbucks.png" width="32%" /> </a>
   
   
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
