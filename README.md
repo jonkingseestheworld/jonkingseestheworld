@@ -16,7 +16,15 @@ Gallery
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/2_Line/2_Line_jpn_airports.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/1_Point/1_Point_uk_pubs_starbucks.png"> 
     <img src="https://github.com/jonkingseestheworld/30DayMapChallenge/blob/main/1_Point/1_Point_uk_pubs_starbucks.png" width="32%" /> </a>
-  
+
+
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_global_temp.gif"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_global_temp.gif" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_NorthernHemi_temp.gif"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_NorthernHemi_temp.gif" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230704wk27/tt20230704wk27_hist_markers.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230704wk27/tt20230704wk27_hist_markers.png" width="32%" /> </a>
+    
   
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230425wk17/tt20230425wk17_marathon.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230425wk17/tt20230425wk17_marathon.png" width="32%" /> </a>
