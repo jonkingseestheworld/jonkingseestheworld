@@ -22,8 +22,9 @@ Gallery
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_global_temp.gif" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_NorthernHemi_temp.gif"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230711wk28/tt20230711wk28_NorthernHemi_temp.gif" width="32%" /> </a>
-  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230704wk27/tt20230704wk27_hist_markers.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230704wk27/tt20230704wk27_hist_markers.png" width="32%" /> </a>
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png" width="32%" /> </a> 
+
     
   
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230425wk17/tt20230425wk17_marathon.png"> 
@@ -33,9 +34,8 @@ Gallery
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/tree/main/2023/20230207wk6"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230207wk6/tt20230207wk6_techstockprice.png" width="32%" /> </a>
   
-
-  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png"> 
-    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230328wk13/tt20230329wk13_timezones.png" width="32%" /> </a> 
+  <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230704wk27/tt20230704wk27_hist_markers.png"> 
+    <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230704wk27/tt20230704wk27_hist_markers.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png"> 
     <img src="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230214wk7/tt20230214wk7_hollywoodAge.png" width="32%" /> </a>
   <a href="https://github.com/jonkingseestheworld/TidyTuesdayPlots/blob/main/2023/20230307wk10/tt20230307wk10_numbats.png"> 
